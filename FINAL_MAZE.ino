@@ -1,3 +1,6 @@
+//This is the final code that I used in my Run at the Event
+//It may not work for everyone as each bot needs its own tunning to work 
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SH110X.h>
