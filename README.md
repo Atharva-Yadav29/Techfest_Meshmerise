@@ -1,4 +1,4 @@
-# ⚡Meshmerize 2024 (IIT Bombay Techfest)
+# ⚡Meshmerize 2025 (IIT Bombay Techfest)
 
 ![Event](https://img.shields.io/badge/Event-Techfest_IITB-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
