@@ -5,7 +5,7 @@
 ![Hardware](https://img.shields.io/badge/Hardware-Teensy%204.1-orange)
 
 <p align="center">
-  <img src="my_bot_photo.jpg" alt="Meshmerize Robot" width="600">
+  <img src="my_bot_photo.jpeg" alt="Meshmerize Robot" width="600">
   <br>
   <i>Our entry for the Meshmerize Grid Solving Challenge at Techfest, IIT Bombay</i>
 </p>
