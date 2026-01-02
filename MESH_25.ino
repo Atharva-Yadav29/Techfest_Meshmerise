@@ -1,3 +1,6 @@
+
+//This is my base code for a bot without oled and this may need some tweaks or adjustments to fit your bot
+
 #include <QTRSensors.h>
 #include <SparkFun_TB6612.h>
 
